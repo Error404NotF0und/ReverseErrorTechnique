@@ -2,6 +2,7 @@
 Guide/Wiki Version of RET
 This is WIP Guide for RET, it will contain all common fixes on all platforms that people face everyday and more!
 Checklist:
+(p.s: Those who have some braincells may know most of these fixes)
 
 Windows Guide - [WIP]
 
